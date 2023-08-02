@@ -1,3 +1,7 @@
+// Grade Average
+// Create a program that takes a student's grades in three different subjects and calculates the
+// average of the grades. Then display the calculated average.
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,7 @@
+// Table
+// Create a program that receives a number from the user and displays the table of that
+// number, from 1 to 10.
+
 #include <stdio.h>
 
 void printTable(int number)

@@ -1,3 +1,7 @@
+// Factorial
+// Write a function to calculate the factorial of a number. Next, create a program that allows the
+// user to enter a number and displays the corresponding factorial.
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,7 @@
+// Simple Calculator
+// Create a calculator that takes two numbers and an operator (+, -, *, /) and returns the result
+// of the operation.
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,8 @@
+// Interest Calculation
+// Create a function that calculates the final value of an investment based on initial capital,
+// interest rate, and investment time (in months). The program must prompt the user for these
+// values ​and display the final value.
+
 #include <math.h>
 #include <stdio.h>
 #include <stdlib.h>

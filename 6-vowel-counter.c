@@ -1,3 +1,7 @@
+// Vowel Counter
+// Create a function that counts the number of vowels in a string. The program should ask the
+// user for a sentence and display how many vowels it has.
+
 #include <stdio.h>
 #include <string.h>
 
