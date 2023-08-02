@@ -20,15 +20,15 @@ unsigned long isPrime(unsigned long number)
 
 int main()
 {
-  unsigned long num;
+  unsigned long number;
   
   printf("Enter a number: ");
-  scanf("%lu", &num);
+  scanf("%lu", &number);
 
-  if (isPrime(num))
-    printf("%lu is a prime number.\n", num);
+  if (isPrime(number))
+    printf("%lu is a prime number.\n", number);
   else
-    printf("%lu is not a prime number.\n", num);
+    printf("%lu is not a prime number.\n", number);
 
   return 0;
 }
